@@ -1,0 +1,83 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Binary::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Binary-Debug-325f7b92f835eaf4894c.json",
+					"name" : "Binary",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Binary2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Binary2-Debug-6f69da21e54f829f2720.json",
+					"name" : "Binary2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Merge::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Merge-Debug-3116608bef786607f3d6.json",
+					"name" : "Merge",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sort-Debug-4b7b95f5994073cd2782.json",
+					"name" : "Sort",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/21050/CLionProjects/AcWing/Basis_of_algorithm/basic_algorithm/cmake-build-debug",
+		"source" : "C:/Users/21050/CLionProjects/AcWing/Basis_of_algorithm/basic_algorithm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

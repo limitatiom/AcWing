@@ -1,0 +1,6 @@
+C:/Users/21050/CLionProjects/AcWing/Basis_of_algorithm/basic_algorithm/cmake-build-debug/CMakeFiles/Sort.dir
+C:/Users/21050/CLionProjects/AcWing/Basis_of_algorithm/basic_algorithm/cmake-build-debug/CMakeFiles/Merge.dir
+C:/Users/21050/CLionProjects/AcWing/Basis_of_algorithm/basic_algorithm/cmake-build-debug/CMakeFiles/Binary.dir
+C:/Users/21050/CLionProjects/AcWing/Basis_of_algorithm/basic_algorithm/cmake-build-debug/CMakeFiles/Binary2.dir
+C:/Users/21050/CLionProjects/AcWing/Basis_of_algorithm/basic_algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/21050/CLionProjects/AcWing/Basis_of_algorithm/basic_algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

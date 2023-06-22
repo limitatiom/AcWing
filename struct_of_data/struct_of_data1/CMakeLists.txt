@@ -1,0 +1,5 @@
+add_executable(single_list single_list.cpp)
+add_executable(double_list double_list.cpp)
+add_executable(lin_jie_list lin_jie_list.cpp)
+add_executable(stack_ stack_.cpp)
+add_executable(kmp kmp.cpp)

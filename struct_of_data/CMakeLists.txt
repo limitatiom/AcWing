@@ -1,0 +1,2 @@
+add_subdirectory(struct_of_data1)
+add_subdirectory(struct_of_data_2)

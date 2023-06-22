@@ -1,0 +1,3 @@
+add_subdirectory(basic_algorithm)
+add_subdirectory(basic_algorithm2)
+add_subdirectory(basic_algorithm3)
